@@ -2,7 +2,7 @@
 
 
 ## Abstract
-_Micropython is a relatively new technology in the fields of IoT and Robotics. It accelerates projects prototyping. In this project, a new set of examples will be written for beginners and for those who are new to robotics. In addition providing various examples for many libs. supported by Arduino to make it well documented in Micropython world._
+_Micropython is a relatively new technology in the fields of IoT and Robotics. It accelerates projects prototyping. In this project, a new set of examples will be written for beginners and for those who are new to robotics. In addition to providing various examples for many libs. supported by Arduino to make it well documented in Micropython world._
 
 ## Technical Details
 
@@ -33,7 +33,7 @@ _consists of examples related to IoT like (HTTP web server - MQTT Server - WiFi 
 ### Project Hub Examples
 _Robots made in Robotics category will be made as Hardware prototypes (RC car - Wall follower - Line follower)_
 
-## Schedule of Deliverable
+## Schedule of Deliverables
 
 _As mentioned in the technical details section deliverable can be divided into different phases_
 ###  First Phase
