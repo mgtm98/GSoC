@@ -29,6 +29,7 @@ _consists of examples related to IoT like (HTTP web server - MQTT Server - WiFi 
 |analog write/read|Display Screen (LCD - tft touch screen - etc.)|interfacing ROS with rc car prototype||
 |os module (files i/o - create directories)||||
 
+###### Note : The demonstrated examples aren't the final list to be implemented. 
 ### Project Hub Examples
 _Robots made in Robotics category will be made as Hardware prototypes (RC car - Wall follower - Line follower)_
 
@@ -49,6 +50,8 @@ In the Final milestone the last set of examples (IoT & Internet Examples) _will 
 
 ### Bounce Phase
 _In this milestone A set of tensorflow lite examples will be provided depending on the adaptability of tensorflow with micropython_ 
+
+###### Note : Concerning other milestones, if libraries aren't available I'm willingly can implement them but it maybe difficult using tensorflow.
 
 ## Development Experience
 
