@@ -40,7 +40,7 @@ _As mentioned in the technical details section deliverables can be divided into 
 _in this milestone First set of examples (Board Basics) will be delivered and it's estimated to be delivered in a week_
 
 ### Second Phase
-_in this milestone the Second set of examples (Communication & Sensors Examples) will be delivered and it's estimated to be delivered in (~ 3 : 4 weeks) depends on the the sensors available for me to interface and if it has a micropython libs. available or i have to write it from scratch_
+_in this milestone the Second set of examples (Communication & Sensors Examples) will be delivered and it's estimated to be delivered in (~ 3 : 4 weeks) depends on the the sensors available for me to interface and if it has a micropython libs. available or I have to write it from scratch_
 
 ### Third Phase
 _In the third milestone the third set of examples (Robotics examples) & the Hardware prototypes will be delivered and  it's estimated to be delivered in (~ 2:3 weeks)_
@@ -71,8 +71,8 @@ In my github there are several examples written by micropython and several libs 
 
 ## Why this project?
 
-_I chose this project as i am very passionate about using micropython as it helps non engineering students and hopiests to create and innovate_
+_I chose this project as I am very passionate about using micropython as it helps non engineering students and hopiests to create and innovate_
 
 ## Do you have any other commitments during the GSoC period?
 
-_No i am completely free during this period (5 days a week  8 hours a day)_
+_No I am completely free during this period (5 days a week  8 hours a day)_
