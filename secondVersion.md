@@ -35,7 +35,7 @@ _Robots made in Robotics category will be made as Hardware prototypes (RC car - 
 
 ## Schedule of Deliverables
 
-_As mentioned in the technical details section deliverable can be divided into different phases_
+_As mentioned in the technical details section deliverables can be divided into different phases_
 ###  First Phase
 _in this milestone First set of examples (Board Basics) will be delivered and it's estimated to be delivered in a week_
 
