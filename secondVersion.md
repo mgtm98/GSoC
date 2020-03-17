@@ -56,7 +56,7 @@ _In this milestone A set of tensorflow lite examples will be provided depending 
 ## Development Experience
 
 In my github there are several examples written by micropython and several libs In addition to  general microcontroller projects in C 
- -  HTTP [WebServer](https://github.com/mgtm98/Nodemcu-WebServer)
+ -  HTTP implemented in micropython [WebServer](https://github.com/mgtm98/Nodemcu-WebServer)
  - uRos (ros implementation to run in micropython **not finished yet**
  - feedback system written in micropython  for ROV (remotely operated vechial) that saves logs from motors and other sensors in json format in SD-card and display samples pf them in a live stream Server (TCP Server - QT GUI) [ROV feedback system](https://github.com/ASURT-ROV-20/Embdded), [ROV-20](https://github.com/ASURT-ROV-20)
  - Several projects related to ARM development (Tiva-c) [Tiva-C firmware](https://github.com/3rd-year-CSE-20/ARM-TM4C123-Safe-Project/tree/Gemy_Modifications)
