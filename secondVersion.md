@@ -12,7 +12,7 @@ _Micropython examples can be divided into 4 main categories (Basics - Communicat
 #### **Basics Examples**
 _consists of intro to upython as a language and basic operation can be made by the board_
 - Print Hello world
-- Led examples
+- Led examples blinking 
 - Digital input examples
 - Get input from Console
 - Analog write/read
@@ -47,25 +47,33 @@ _consists of examples related to IoT like (HTTP web server - MQTT Server - WiFi 
 
 ###### Note : The demonstrated examples aren't the final list to be implemented. This list contains the sensors i have right now. At the summer i could buy or borrow more sensors to implement,
 ### Project Hub Examples
+- Getting started with the board and print hello world
 _Robots made in Robotics category will be made as Hardware prototypes (RC car - Wall follower - Line follower)_
 
 ## Schedule of Deliverables
 
 _As mentioned in the technical details section deliverables can be divided into different phases_
-###  First Phase
-_In this milestone, first set of examples (Board Basics) will be delivered and it's estimated to be delivered in a week_
 
-### Second Phase
-_in this milestone the Second set of examples (Communication & Sensors Examples) will be delivered and it's estimated to be delivered in (~ 3 : 4 weeks) depending on the sensors available for me to interface and if it has a micropython libs. available or I have to write it from scratch_
+**Community Bonding Period**: During this period I will get use to the new board, prepare the sensors and the hardware required for the project
 
-### Third Phase
-_In the third milestone the third set of examples (Robotics examples) & the Hardware prototypes will be delivered and  it's estimated to be delivered in (~ 2:3 weeks)_
+**First Milestone** : _In this milestone, the first set of examples (Board Basics) will be delivered and it's estimated to be delivered in a week_
+| Day  |                           Example to be Delivered                          |
+|------|:--------------------------------------------------------------------------:|
+| 18/5 |  Getting started with the board in Project Hub & Print Hello world Example |
+| 19/5 |                Led Examples (Turn on a LED - Blinking Led)                 |
+| 20/5 |           Digital Input (use a push button to Turn on/off a LED)           |
+| 21/5 |       Get input from Console (use ``input`` keyword) to turn on/off a LED      |
+| 22/5 | Analog read/write (use a potentiometer to control a LED) - RGB LED Module  |
+| 23/5 |       Micropython ``os`` module example (file i/o - directory navigation)      |
+| 24/5 |                                                                            |
 
-### Fourth Phase
-In the Final milestone the last set of examples (IoT & Internet Examples) _will be delivered and  it's estimated to be delivered in a Month_
+**Second Milestone** :  _In this milestone the Second set of examples (Communication & Sensors Examples) will be delivered and it's estimated to be delivered in (~ 3 : 4 weeks) depending on the sensors available for me to interface and if it has a micropython libs. available or I have to write it from scratch_
 
-### Bonus Phase
-_In this milestone, a set of tensorflow lite examples will be provided depending on the adaptability of tensorflow with micropython_ 
+**Third Milestone** :_In the third milestone the third set of examples (Robotics examples) & the Hardware prototypes will be delivered and  it's estimated to be delivered in (~ 2:3 weeks)_
+
+**Fourth Milestone** : In the Final milestone the last set of examples (IoT & Internet Examples) _will be delivered and  it's estimated to be delivered in a Month_
+
+**Bonus Phase** : In this milestone, a set of tensorflow lite examples will be provided depending on the adaptability of tensorflow with micropython_ 
 
 ###### Note : Concerning other milestones, if libraries aren't available I'm willingly can implement them but it may be difficult using tensorflow.
 
@@ -99,5 +107,5 @@ _Besides that I chose this project as I am very passionate about using micropyth
 
 ## Do you have any other commitments during the GSoC period?
 
-_No I am completely free during this period (5 days a week  8 hours a day)_
+_My exams will take place from 27th of May to 30th of June, so I won’t be able to work with my full capacity for about fifteen days, but I’m going to make it up in the following months of the project._
 
