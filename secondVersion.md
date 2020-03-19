@@ -66,6 +66,7 @@ _As mentioned in the technical details section deliverables can be divided into 
 | 22/5 | Analog read/write (use a potentiometer to control a LED) - RGB LED Module  |
 | 23/5 |       Micropython OS module example (file i/o - directory navigation)      |
 | 24/5 | Motors examples (stepper motor - servo motor - brushless motor - dc motor) |
+
 **Second Milestone** :  _In this milestone the Second set of examples (Communication & Sensors Examples) will be delivered and it's estimated to be delivered in (~ 3 : 4 weeks) depending on the sensors available for me to interface and if it has a micropython libs. available or I have to write it from scratch_
 
 **Third Milestone** :_In the third milestone the third set of examples (Robotics examples) & the Hardware prototypes will be delivered and  it's estimated to be delivered in (~ 2:3 weeks)_
