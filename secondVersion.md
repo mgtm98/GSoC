@@ -17,7 +17,7 @@ _consists of intro to upython as a language and basic operation can be made by t
 - Get input from Console
 - Analog write/read
 - os module (files i/o - create directories)
-
+- Various motors Examples (DC motor - servo motor - brushless motor - stepper motor)
 #### Communication Protocols & Various Sensors Examples
 _consists of examples for communication protocols (UART - I2C - SPI) and sensors that uses this protocols like (Magnetometer - IMU - Barometer - External ADC - SD Card)_
 
@@ -62,11 +62,10 @@ _As mentioned in the technical details section deliverables can be divided into 
 | 18/5 |  Getting started with the board in Project Hub & Print Hello world Example |
 | 19/5 |                Led Examples (Turn on a LED - Blinking Led)                 |
 | 20/5 |           Digital Input (use a push button to Turn on/off a LED)           |
-| 21/5 |       Get input from Console (use ``input`` keyword) to turn on/off a LED      |
+| 21/5 |       Get input from Console (use input keyword) to turn on/off a LED      |
 | 22/5 | Analog read/write (use a potentiometer to control a LED) - RGB LED Module  |
-| 23/5 |       Micropython ``os`` module example (file i/o - directory navigation)      |
-| 24/5 |                                                                            |
-
+| 23/5 |       Micropython OS module example (file i/o - directory navigation)      |
+| 24/5 | Motors examples (stepper motor - servo motor - brushless motor - dc motor) |
 **Second Milestone** :  _In this milestone the Second set of examples (Communication & Sensors Examples) will be delivered and it's estimated to be delivered in (~ 3 : 4 weeks) depending on the sensors available for me to interface and if it has a micropython libs. available or I have to write it from scratch_
 
 **Third Milestone** :_In the third milestone the third set of examples (Robotics examples) & the Hardware prototypes will be delivered and  it's estimated to be delivered in (~ 2:3 weeks)_
