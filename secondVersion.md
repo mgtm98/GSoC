@@ -67,15 +67,29 @@ _As mentioned in the technical details section deliverables can be divided into 
 | 23/5 |       Micropython OS module example (file i/o - directory navigation)      |
 | 24/5 | Motors examples (stepper motor - servo motor - brushless motor - dc motor) |
 
-**Second Milestone** :  _In this milestone the Second set of examples (Communication & Sensors Examples) will be delivered and it's estimated to be delivered in (~ 3 : 4 weeks) depending on the sensors available for me to interface and if it has a micropython libs. available or I have to write it from scratch_
+**Second Milestone** :  _In this milestone the Second set of examples (Communication & Sensors Examples) will be delivered and it's estimated to be delivered in (3 weeks) depending on the sensors available for me to interface and if it has a micropython libs. available or I have to write it from scratch_
+| Day               |         Example to be Delivered        |
+|-------------------|:--------------------------------------:|
+| from 25/5 to 14/6 | Communication Protocols & Sensors libs |
 
-**Third Milestone** :_In the third milestone the third set of examples (Robotics examples) & the Hardware prototypes will be delivered and  it's estimated to be delivered in (~ 2:3 weeks)_
+**Third Milestone** :_In the third milestone the third set of examples (Robotics examples) & the Hardware prototypes will be delivered and  it's estimated to be delivered in (2 weeks)_
+| Day               |                                 Example to be Delivered                                |
+|-------------------|:--------------------------------------------------------------------------------------:|
+| from 15/6 to 28/6 | Hardware prototypes for RC car - Line follower working with standard code and with ROS |
 
 **Fourth Milestone** : In the Final milestone the last set of examples (IoT & Internet Examples) _will be delivered and  it's estimated to be delivered in a Month_
+| Day               |                                Example to be Delivered                               |
+|-------------------|:------------------------------------------------------------------------------------:|
+| from 29/6 to 19/7 | Various IoT and Network examples like Tcp server - http server - firebase app - etc. |
 
-**Bonus Phase** : In this milestone, a set of tensorflow lite examples will be provided depending on the adaptability of tensorflow with micropython_ 
+**Bonus Phase** : In this milestone,I will learn more about tensorflow in micropython then a set of tensorflow lite examples will be provided depending on the adaptability of tensorflow with micropython_ 
+
+| Day               |                        Example to be Delivered                        |
+|-------------------|:---------------------------------------------------------------------:|
+| from 19/7 to 10/8 | Learning more about tf in upython then creating basic examples for tf |
 
 ###### Note : Concerning other milestones, if libraries aren't available I'm willingly can implement them but it may be difficult using tensorflow.
+###### Note : The demonstrated examples aren't the final list to be implemented. This list contains the sensors i have right now. At the summer i could buy or borrow more sensors to implement,
 
 ## Development Experience
 #### My Experiences : 
